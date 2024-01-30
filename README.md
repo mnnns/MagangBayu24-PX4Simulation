@@ -1,7 +1,7 @@
 # Magang Bayucaraka 2024 - PX4 Simulation
 
-Nama    : \
-NRP     : 
+Nama    : Naswan Nashir Ramadhan\
+NRP     : 5025231246
 
 ## Cara Pengumpulan
 - Fork repositori ini
